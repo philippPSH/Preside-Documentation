@@ -16,7 +16,7 @@ The Data Manager implements a large number of customizations. Each customization
 For example, you may wish to do some extra processing after saving an `employee` record using the `postEditRecordAction` customization:
 
 ```luceescript
-// /application/handlers/datamanager/employee.cfc
+// /application/handlers/admin/datamanager/employee.cfc
 
 component {
 
